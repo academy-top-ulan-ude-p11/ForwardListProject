@@ -3,7 +3,7 @@
 
 int main()
 {
-    ForwardList flist;
+    ForwardList<int> flist;
     flist.Add(100);
     flist.Add(200);
     flist.Add(300);
